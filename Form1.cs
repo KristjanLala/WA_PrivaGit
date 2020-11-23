@@ -23,6 +23,8 @@ namespace WA_PrivaGit
             MessageBox.Show("CIAOO");
             MessageBox.Show("HALLO");
             MessageBox.Show("PERSHENDETJE");
+            MessageBox.Show("BEENE");
+
 
 
 
